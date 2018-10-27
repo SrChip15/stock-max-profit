@@ -10,3 +10,9 @@ let maxSpread = require('./maxSpread');
 ```
 * And now simply pass the array with the data to the `maxSpread()` function you imported from the module.
 * Implemented as an anonymous function to preserve simplicity.
+
+## Implemented algorithms
+Binary Search Tree
+
+
+### Check Example Imprementation, feel free to test the code.
